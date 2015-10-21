@@ -1,0 +1,13 @@
+D:\IRC\Jira\IRC Jira 3rd Part Apps\QueryUpdateJira\QueryUpdateJira\bin\Debug\QueryUpdateJira.exe.config
+D:\IRC\Jira\IRC Jira 3rd Part Apps\QueryUpdateJira\QueryUpdateJira\bin\Debug\QueryUpdateJira.exe
+D:\IRC\Jira\IRC Jira 3rd Part Apps\QueryUpdateJira\QueryUpdateJira\bin\Debug\QueryUpdateJira.pdb
+D:\IRC\Jira\IRC Jira 3rd Part Apps\QueryUpdateJira\QueryUpdateJira\bin\Debug\Newtonsoft.Json.dll
+D:\IRC\Jira\IRC Jira 3rd Part Apps\QueryUpdateJira\QueryUpdateJira\obj\Debug\QueryUpdateJira.Form1.resources
+D:\IRC\Jira\IRC Jira 3rd Part Apps\QueryUpdateJira\QueryUpdateJira\obj\Debug\QueryUpdateJira.Properties.Resources.resources
+D:\IRC\Jira\IRC Jira 3rd Part Apps\QueryUpdateJira\QueryUpdateJira\obj\Debug\QueryUpdateJira.csproj.GenerateResource.Cache
+D:\IRC\Jira\IRC Jira 3rd Part Apps\QueryUpdateJira\QueryUpdateJira\obj\Debug\QueryUpdateJira.exe
+D:\IRC\Jira\IRC Jira 3rd Part Apps\QueryUpdateJira\QueryUpdateJira\obj\Debug\QueryUpdateJira.pdb
+D:\IRC\Jira\IRC Jira 3rd Part Apps\QueryUpdateJira\QueryUpdateJira\obj\Debug\QueryUpdateJira.csprojResolveAssemblyReference.cache
+D:\IRC\CD to IRC\IRCIVR-Complete\IRCIVR-Complete\Jira 3rdParty apps\QueryUpdateJira\QueryUpdateJira\bin\Debug\QueryUpdateJira.exe.config
+D:\IRC\CD to IRC\IRCIVR-Complete\IRCIVR-Complete\Jira 3rdParty apps\QueryUpdateJira\QueryUpdateJira\obj\Debug\QueryUpdateJira.exe
+D:\IRC\CD to IRC\IRCIVR-Complete\IRCIVR-Complete\Jira 3rdParty apps\QueryUpdateJira\QueryUpdateJira\obj\Debug\QueryUpdateJira.pdb
